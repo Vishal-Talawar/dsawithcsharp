@@ -34,7 +34,9 @@ Each solution includes:
 - Pattern used  
 
 ## 🗂 Folder Structure
+## 🗂 Folder Structure
 
+```
 dsawithcsharp/
 │
 ├── Arrays/
@@ -49,6 +51,7 @@ dsawithcsharp/
 │
 ├── DSA_Notes.md
 └── README.md
+```
 
 Each topic folder contains individual `.cs` files for the problems solved in that category.
 
