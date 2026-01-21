@@ -31,9 +31,9 @@ Each solution includes:
 - Problem description  
 - Approach explanation  
 - Time & Space complexity  
-- Pattern used  
+- Pattern used
 
-## 🗂 Folder Structure
+  
 ## 🗂 Folder Structure
 
 ```
