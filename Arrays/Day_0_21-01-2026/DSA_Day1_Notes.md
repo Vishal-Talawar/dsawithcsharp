@@ -10,6 +10,10 @@ Problems Solved:
 
 \- Remove Duplicates from Sorted Array → Two Pointer / In-place array update
 
+\- Container With Most Water → Two Pointer + Greedy
+
+\- First Missing Positive → Index Mapping (Cyclic Sort idea)
+
 
 
 Revisions:
@@ -31,4 +35,6 @@ Patterns Learned:
 \- Prefix Shrinking
 
 \- Two Pointers
+
+\- Index Mapping
 
